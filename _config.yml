@@ -1,1 +1,1 @@
-theme: jekyll-theme-hacker
+theme: mysql -hcontainers-us-west-42.railway.app -uroot -pz65uaqMZYMEB3Y47hC1v --port 6227 --protocol=TCP railway
