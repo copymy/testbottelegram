@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, CallbackContext
 import os
 import logging
 import random
-import requests
+'''import requests'''
 import time
 import json, re
 import telegram
